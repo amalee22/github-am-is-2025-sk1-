@@ -1,0 +1,15 @@
+C:\github\IS-Programy\program002a-soucet-cifer\bin\Debug\net9.0\program002a-soucet-cifer.exe
+C:\github\IS-Programy\program002a-soucet-cifer\bin\Debug\net9.0\program002a-soucet-cifer.deps.json
+C:\github\IS-Programy\program002a-soucet-cifer\bin\Debug\net9.0\program002a-soucet-cifer.runtimeconfig.json
+C:\github\IS-Programy\program002a-soucet-cifer\bin\Debug\net9.0\program002a-soucet-cifer.dll
+C:\github\IS-Programy\program002a-soucet-cifer\bin\Debug\net9.0\program002a-soucet-cifer.pdb
+C:\github\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.AssemblyInfoInputs.cache
+C:\github\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.AssemblyInfo.cs
+C:\github\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.sourcelink.json
+C:\github\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.dll
+C:\github\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\refint\program002a-soucet-cifer.dll
+C:\github\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.pdb
+C:\github\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\program002a-soucet-cifer.genruntimeconfig.cache
+C:\github\IS-Programy\program002a-soucet-cifer\obj\Debug\net9.0\ref\program002a-soucet-cifer.dll
