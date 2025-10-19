@@ -7,7 +7,7 @@ while (again == "a")
     Console.Clear();
     Console.WriteLine("*******************************");
     Console.WriteLine("*** Ciferný součet a součin ***");
-    Console.WriteLine("****************************");
+    Console.WriteLine("*******************************");
     Console.WriteLine("****** Amálie Musilová ********");
     Console.WriteLine("*******************************");
     Console.WriteLine();
