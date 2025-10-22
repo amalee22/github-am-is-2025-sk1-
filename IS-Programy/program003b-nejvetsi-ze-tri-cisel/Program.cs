@@ -39,41 +39,29 @@ while (again == "a")
         Console.Write("Nezadali jste celé číslo. Zadejte hodnotu C znovu: ");
     }
 
-    Console.WriteLine("===================================================");
 
+
+    Console.WriteLine();
+    Console.WriteLine("===========================================================");
     if (a > b)
     {
         if (a > c)
-        { //největší číslo je a a = hodnota a
-            Console.WriteLine($"Největší číslo je A= {a}");
-        }
+            Console.WriteLine($"Největší číslo je A = {a}");
         else
-        {
-            Console.WriteLine($"Největší číslo je C= {c}");
-        }
+            Console.WriteLine($"Největší číslo je C = {c}");
     }
-
     else
     {
         if (b > c)
-            Console.WriteLine($"Největší číslo je B= {b}");
+            Console.WriteLine($"Největší číslo je B = {b}");
         else
-        {
-            Console.WriteLine($"Největší číslo je C= {c}");
-        }
+            Console.WriteLine($"Největší číslo je C = {c}");
     }
-
-
-Console.WriteLine("===================================================");
-
-
-
-   
+    Console.WriteLine("===========================================================");
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
     again = Console.ReadLine();
-
 }
 
 
