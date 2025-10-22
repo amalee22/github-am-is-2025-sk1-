@@ -1,0 +1,5 @@
+C:\github\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.AssemblyInfoInputs.cache
+C:\github\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.AssemblyInfo.cs
+C:\github\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.sourcelink.json
