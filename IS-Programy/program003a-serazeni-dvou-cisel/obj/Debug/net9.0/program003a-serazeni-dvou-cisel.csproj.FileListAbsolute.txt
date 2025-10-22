@@ -1,0 +1,15 @@
+C:\github\IS-Programy\program003a-serazeni-dvou-cisel\bin\Debug\net9.0\program003a-serazeni-dvou-cisel.exe
+C:\github\IS-Programy\program003a-serazeni-dvou-cisel\bin\Debug\net9.0\program003a-serazeni-dvou-cisel.deps.json
+C:\github\IS-Programy\program003a-serazeni-dvou-cisel\bin\Debug\net9.0\program003a-serazeni-dvou-cisel.runtimeconfig.json
+C:\github\IS-Programy\program003a-serazeni-dvou-cisel\bin\Debug\net9.0\program003a-serazeni-dvou-cisel.dll
+C:\github\IS-Programy\program003a-serazeni-dvou-cisel\bin\Debug\net9.0\program003a-serazeni-dvou-cisel.pdb
+C:\github\IS-Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.AssemblyInfoInputs.cache
+C:\github\IS-Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.AssemblyInfo.cs
+C:\github\IS-Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.sourcelink.json
+C:\github\IS-Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.dll
+C:\github\IS-Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\refint\program003a-serazeni-dvou-cisel.dll
+C:\github\IS-Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.pdb
+C:\github\IS-Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\program003a-serazeni-dvou-cisel.genruntimeconfig.cache
+C:\github\IS-Programy\program003a-serazeni-dvou-cisel\obj\Debug\net9.0\ref\program003a-serazeni-dvou-cisel.dll
