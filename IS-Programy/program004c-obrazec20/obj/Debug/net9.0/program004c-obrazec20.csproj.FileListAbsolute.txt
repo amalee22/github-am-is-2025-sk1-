@@ -1,0 +1,15 @@
+C:\github\IS-Programy\program004c-obrazec20\bin\Debug\net9.0\program004c-obrazec20.exe
+C:\github\IS-Programy\program004c-obrazec20\bin\Debug\net9.0\program004c-obrazec20.deps.json
+C:\github\IS-Programy\program004c-obrazec20\bin\Debug\net9.0\program004c-obrazec20.runtimeconfig.json
+C:\github\IS-Programy\program004c-obrazec20\bin\Debug\net9.0\program004c-obrazec20.dll
+C:\github\IS-Programy\program004c-obrazec20\bin\Debug\net9.0\program004c-obrazec20.pdb
+C:\github\IS-Programy\program004c-obrazec20\obj\Debug\net9.0\program004c-obrazec20.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\program004c-obrazec20\obj\Debug\net9.0\program004c-obrazec20.AssemblyInfoInputs.cache
+C:\github\IS-Programy\program004c-obrazec20\obj\Debug\net9.0\program004c-obrazec20.AssemblyInfo.cs
+C:\github\IS-Programy\program004c-obrazec20\obj\Debug\net9.0\program004c-obrazec20.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\program004c-obrazec20\obj\Debug\net9.0\program004c-obrazec20.sourcelink.json
+C:\github\IS-Programy\program004c-obrazec20\obj\Debug\net9.0\program004c-obrazec20.dll
+C:\github\IS-Programy\program004c-obrazec20\obj\Debug\net9.0\refint\program004c-obrazec20.dll
+C:\github\IS-Programy\program004c-obrazec20\obj\Debug\net9.0\program004c-obrazec20.pdb
+C:\github\IS-Programy\program004c-obrazec20\obj\Debug\net9.0\program004c-obrazec20.genruntimeconfig.cache
+C:\github\IS-Programy\program004c-obrazec20\obj\Debug\net9.0\ref\program004c-obrazec20.dll
