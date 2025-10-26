@@ -1,0 +1,15 @@
+C:\github\IS-Programy\program004c-obrazec10\obj\Debug\net9.0\program004c-obrazec10.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\program004c-obrazec10\obj\Debug\net9.0\program004c-obrazec10.AssemblyInfoInputs.cache
+C:\github\IS-Programy\program004c-obrazec10\obj\Debug\net9.0\program004c-obrazec10.AssemblyInfo.cs
+C:\github\IS-Programy\program004c-obrazec10\obj\Debug\net9.0\program004c-obrazec10.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\program004c-obrazec10\obj\Debug\net9.0\program004c-obrazec10.sourcelink.json
+C:\github\IS-Programy\program004c-obrazec10\bin\Debug\net9.0\program004c-obrazec10.exe
+C:\github\IS-Programy\program004c-obrazec10\bin\Debug\net9.0\program004c-obrazec10.deps.json
+C:\github\IS-Programy\program004c-obrazec10\bin\Debug\net9.0\program004c-obrazec10.runtimeconfig.json
+C:\github\IS-Programy\program004c-obrazec10\bin\Debug\net9.0\program004c-obrazec10.dll
+C:\github\IS-Programy\program004c-obrazec10\bin\Debug\net9.0\program004c-obrazec10.pdb
+C:\github\IS-Programy\program004c-obrazec10\obj\Debug\net9.0\program004c-obrazec10.dll
+C:\github\IS-Programy\program004c-obrazec10\obj\Debug\net9.0\refint\program004c-obrazec10.dll
+C:\github\IS-Programy\program004c-obrazec10\obj\Debug\net9.0\program004c-obrazec10.pdb
+C:\github\IS-Programy\program004c-obrazec10\obj\Debug\net9.0\program004c-obrazec10.genruntimeconfig.cache
+C:\github\IS-Programy\program004c-obrazec10\obj\Debug\net9.0\ref\program004c-obrazec10.dll
