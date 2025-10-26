@@ -37,10 +37,10 @@ while (again == "a")
 
 
     Console.WriteLine();
-      int pom;
+      int pom; //pomocná hodnota
 if(a > b)
     {
-        pom = a;
+        pom = a;    //přelévání "skleniček"
         a = b;
         b = pom;
         Console.WriteLine("Došlo k prohození proměnných.");
@@ -52,7 +52,9 @@ if(a > b)
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
+
     again = Console.ReadLine();
+
 
 }
 

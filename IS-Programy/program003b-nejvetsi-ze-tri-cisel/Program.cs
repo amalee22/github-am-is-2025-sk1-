@@ -5,11 +5,11 @@ string again = "a";
 while (again == "a")
 {
     Console.Clear();
-    Console.WriteLine("******************************");
+    Console.WriteLine("*********************************");
     Console.WriteLine("***** Největší ze tří čísel *****");
-    Console.WriteLine("******************************");
-    Console.WriteLine("****** Amálie Musilová *******");
-    Console.WriteLine("******************************");
+    Console.WriteLine("*********************************");
+    Console.WriteLine("******** Amálie Musilová ********");
+    Console.WriteLine("*********************************");
     Console.WriteLine();
 
 
