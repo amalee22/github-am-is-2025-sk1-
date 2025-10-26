@@ -1,0 +1,15 @@
+C:\github\IS-Programy\program004b-pravouhly-trojuhelnik\bin\Debug\net9.0\program004b-pravouhly-trojuhelnik.exe
+C:\github\IS-Programy\program004b-pravouhly-trojuhelnik\bin\Debug\net9.0\program004b-pravouhly-trojuhelnik.deps.json
+C:\github\IS-Programy\program004b-pravouhly-trojuhelnik\bin\Debug\net9.0\program004b-pravouhly-trojuhelnik.runtimeconfig.json
+C:\github\IS-Programy\program004b-pravouhly-trojuhelnik\bin\Debug\net9.0\program004b-pravouhly-trojuhelnik.dll
+C:\github\IS-Programy\program004b-pravouhly-trojuhelnik\bin\Debug\net9.0\program004b-pravouhly-trojuhelnik.pdb
+C:\github\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.AssemblyInfoInputs.cache
+C:\github\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.AssemblyInfo.cs
+C:\github\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.sourcelink.json
+C:\github\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.dll
+C:\github\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\refint\program004b-pravouhly-trojuhelnik.dll
+C:\github\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.pdb
+C:\github\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.genruntimeconfig.cache
+C:\github\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\ref\program004b-pravouhly-trojuhelnik.dll
