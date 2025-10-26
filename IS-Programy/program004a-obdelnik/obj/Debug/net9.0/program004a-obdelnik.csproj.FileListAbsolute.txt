@@ -3,3 +3,13 @@ C:\github\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik
 C:\github\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.AssemblyInfo.cs
 C:\github\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.csproj.CoreCompileInputs.cache
 C:\github\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.sourcelink.json
+C:\github\IS-Programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.exe
+C:\github\IS-Programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.deps.json
+C:\github\IS-Programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.runtimeconfig.json
+C:\github\IS-Programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.dll
+C:\github\IS-Programy\program004a-obdelnik\bin\Debug\net9.0\program004a-obdelnik.pdb
+C:\github\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.dll
+C:\github\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\refint\program004a-obdelnik.dll
+C:\github\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.pdb
+C:\github\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\program004a-obdelnik.genruntimeconfig.cache
+C:\github\IS-Programy\program004a-obdelnik\obj\Debug\net9.0\ref\program004a-obdelnik.dll

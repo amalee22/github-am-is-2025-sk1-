@@ -12,12 +12,14 @@ while (again == "a")
     Console.Write("Zadejte šířku obrazce (celé číslo): ");
     int width;
 
+//šířka obrazce
     while (!int.TryParse(Console.ReadLine(), out width))
     {
         Console.Write("Nezadali jste celé číslo. Zadejte šířku obrazce znovu: ");
     }
 
-    Console.Write("Zadejte výška obrazce (celé číslo): ");
+//výška obrazce
+    Console.Write("Zadejte výšku obrazce (celé číslo): ");
     int height;
 
     while (!int.TryParse(Console.ReadLine(), out height))
@@ -25,7 +27,7 @@ while (again == "a")
         Console.Write("Nezadali jste celé číslo. Zadejte výšku obrazce znovu: ");
     }
 
-
+//2 cykly pro vykreslení obdélníku
     for (int i = 1; i <= height; i++)
     {
         for (int j = 1; j <= width; j++)
