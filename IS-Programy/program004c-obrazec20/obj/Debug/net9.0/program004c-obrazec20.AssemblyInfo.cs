@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program004c-obrazec20")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c94b4f54ca9c375bc367a83d75d7b1507133f461")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bb416757608f3bae2671a34fa2125a526f6731c")]
 [assembly: System.Reflection.AssemblyProductAttribute("program004c-obrazec20")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program004c-obrazec20")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
