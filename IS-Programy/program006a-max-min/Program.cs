@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics.CodeAnalysis;
+using System.Xml.Serialization;
 using Microsoft.VisualBasic;
 
 string again = "a";
@@ -134,8 +135,69 @@ while (again == "a" || again == "A") // bere to jak malá tak i velká a B)
         }
     }
 
- 
- 
+
+
+
+    if (maxValue >= 3)
+    {
+
+        for (int i = 0; i <= maxValue; i++)
+        {
+            //CYKLUS - dodržení správného počtu řádků  - má mít tři části 
+            int spaces, stars;
+            if (i < (maxValue / 2))
+
+                spaces = i;
+            //horní polovina - s každým řádkem se hvězdiček přibývá o 2 (po jedné z každé strany´)
+            stars = maxValue - (2 * i);
+
+        //např max 10   10 - 2*0   = 10
+        // 10    10 - 2*1   = 8
+        // 10   10 - 2*2   = 6
+        //10  10 - 2*3   = 4
+        //10 10 - 2*4   = 2
+        // 10 10 - 2*5   = 0
+
+            else
+            {
+                spaces = maxValue - i - 1;
+
+                //procento = modulo % 
+                if (maxValue % 2 == 1)
+                {
+                    stars = 2 * (i - (i - maxValue / 2)) + 1;
+                }
+
+                else
+                {
+                    stars = stars = 2 * (i - maxValue / 2) + 2;
+
+                }
+
+                //SP = SPACE 
+                for (int sp = 0; sp < spaces; sp++)
+                {
+                    Console.Write(" ");
+                }
+
+
+                //ST = STARS
+                for (int st = 0; st < stars; st++)
+                {
+                    Console.Write("*");//jen write ne writeline protože chceme aby to bylo na jednom řádku
+                }
+
+
+            }
+
+            Console.WriteLine(); // nový řádek po každém řádku obrazce
+        }
+    else {
+                Console.WriteLine("Maximum je menší než 3 => obrazec se nevykreslí.");
+            }
+        }
+    }
+
     Console.WriteLine();
     Console.WriteLine("=========================================");
     Console.WriteLine($"Maximum: {  maxValue}");
