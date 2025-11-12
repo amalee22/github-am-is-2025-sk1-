@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program006-max-min")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8f5139e54db076eeb78f7d0ea9c606965b0b135")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5b363d4946e3c874962debe77517fc2022dddec")]
 [assembly: System.Reflection.AssemblyProductAttribute("program006-max-min")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program006-max-min")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
