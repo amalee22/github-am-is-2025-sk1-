@@ -14,7 +14,7 @@ while (again == "a" || again == "A")
     Console.Write("Vložte počet generovaných čísel (celé číslo): ");
     int n;
     while (!int.TryParse(Console.ReadLine(), out n))
-    {
+    {                   // první while cyklus pro kontrolu vstupu - pokud uživatel nezadá celé číslo, tak ho to neposune dál !!! 
         Console.Write("Nezadali jste celé číslo. Zadejte znovu počet čísel: ");
     }
 
@@ -29,7 +29,7 @@ while (again == "a" || again == "A")
     int upperBound;
     while (!int.TryParse(Console.ReadLine(), out upperBound) || upperBound < lowerBound)
     {
-        if (upperBound < lowerBound)
+        if (upperBound < lowerBound) //statement pro kontrolu, zda je horní mez větší než dolní mez
         {
             Console.Write($"Horní mez musí být větší než dolní mez ({lowerBound}). Zadejte horní mez znovu: ");
         }
@@ -42,12 +42,15 @@ while (again == "a" || again == "A")
     Console.Clear();
     Console.WriteLine();
     Console.WriteLine("======================================================");
-    Console.WriteLine("Hodnoty vstupů: ");
+    Console.WriteLine("Hodnoty vstupů: ");      //$ ukazuje zadané hodnoty - pokud tam není, tak to nebere proměnné 
     Console.WriteLine($"Počet vygenerovaných hodnot: {n}; Dolní mez: {lowerBound}; Horní mez: {upperBound};");
     Console.WriteLine("======================================================");
 
+
+//array declaration - array of ints - size n (user defined) 
     int[] myRandomNumbers = new int[n];
     Random myRandomNumber = new Random();
+
 
     int negativeNumbers = 0;
     int positiveNumbers = 0;
@@ -56,7 +59,7 @@ while (again == "a" || again == "A")
     int oddNumbers = 0;
 
     Console.WriteLine();
-    Console.WriteLine("Pseudonáhodná čísla: ");
+    Console.WriteLine("Pseudonáhodná čísla: "); // vypíše vygenerovaná čísla uživateli 
 
     for (int i = 0; i < n; i++)
     {
@@ -69,88 +72,77 @@ while (again == "a" || again == "A")
         else if (value > 0) positiveNumbers++;
         else zeroNumbers++;
 
-        if (value % 2 == 0) evenNumbers++;
-        else oddNumbers++;
+        if (value % 2 == 0) evenNumbers++;  //modulo % 
+        else oddNumbers++;  //nechceme lichá čísla
     }
+
+
     Console.WriteLine();
 
     int maxValue = myRandomNumbers[0];
-    int minValue = myRandomNumbers[0];
+    int minValue = myRandomNumbers[0]; //ještě nevíme jaké to bude číslo, tak řekneme že to bude první číslo z pole
     int posMax = 0;
     int posMin = 0;
 
     for (int i = 1; i < n; i++)
-    {
+    {// jaké číslo je nejvě tší a jaké nejmenší - vezme to ty vybraná čísla 
         if (myRandomNumbers[i] > maxValue)
         {
-            maxValue = myRandomNumbers[i];
+            maxValue = myRandomNumbers[i]; //uložení nové maximální hodnoty
             posMax = i;
         }
         if (myRandomNumbers[i] < minValue)
         {
             minValue = myRandomNumbers[i];
-            posMin = i;
+            posMin = i; //uložení nové minimální hodnoty 
         }
     }
 
 
-//malování obrazce podle maxima
-    if (maxValue >= 3) //hodnota musí být alespoň 3, aby se něco vykreslilo
+    // Drawing the hourglass
+    if (maxValue >= 3)
     {
-        for (int i = 0; i <= maxValue; i++)
+        for (int i = 0; i < maxValue; i++)
         {
             int spaces, stars;
-
-            if (i < (maxValue / 2))
+            if (i < maxValue / 2)
             {
-                spaces = i; // první polovina - v každém řádku je méně hvězdiček a více mezer - a od prostředku se to obrací - 
-                stars = maxValue - (2 * i);         // méně mezer a více hvězdiček od poloviny 
+                spaces = i;
+                // upper half - every next line has two fewer stars (one from each side) 
+                stars = maxValue - (2 * i);
             }
             else
             {
                 spaces = maxValue - i - 1;
-
                 if (maxValue % 2 == 1)
                 {
-                    stars = 2 * (i - (i - maxValue / 2)) + 1;
+                    stars = 2 * (i - maxValue / 2) + 1;
                 }
                 else
                 {
                     stars = 2 * (i - maxValue / 2) + 2;
                 }
             }
-//SPACE
-            for (int sp = 0; sp < spaces; sp++)
-            {
-                Console.Write(" ");
-            }
-//STARS
-            for (int st = 0; st < stars; st++)
-            {
-                Console.Write("*");
-            }
-
-            Console.WriteLine();
-
-
-//barvy 
             Console.ForegroundColor = ConsoleColor.Magenta;
-            Console.BackgroundColor = ConsoleColor.Green;
+            Console.BackgroundColor = ConsoleColor.DarkRed;
 
-            // mezery
+            // sp - space
             for (int sp = 0; sp < spaces; sp++)
+            {
                 Console.Write(" ");
-
-            // hvězdičky
+            }
+            // st - star
             for (int st = 0; st < stars; st++)
+
                 Console.Write("*");
 
             Console.WriteLine();
             Console.ResetColor();
-
         }
 
     }
+
+
     else
     {
         Console.WriteLine("Maximum je menší než 3 => obrazec se nevykreslí.");

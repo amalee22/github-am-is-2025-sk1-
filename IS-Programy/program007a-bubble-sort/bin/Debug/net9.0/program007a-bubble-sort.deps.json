@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "program007a-bubble-sort/1.0.0": {
+        "runtime": {
+          "program007a-bubble-sort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program007a-bubble-sort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
