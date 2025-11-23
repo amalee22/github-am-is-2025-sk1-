@@ -1,0 +1,15 @@
+C:\github\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.AssemblyInfoInputs.cache
+C:\github\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.AssemblyInfo.cs
+C:\github\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.sourcelink.json
+C:\github\IS-Programy\program007b-bubble-sort-obrazec\bin\Debug\net9.0\program007b-bubble-sort-obrazec.exe
+C:\github\IS-Programy\program007b-bubble-sort-obrazec\bin\Debug\net9.0\program007b-bubble-sort-obrazec.deps.json
+C:\github\IS-Programy\program007b-bubble-sort-obrazec\bin\Debug\net9.0\program007b-bubble-sort-obrazec.runtimeconfig.json
+C:\github\IS-Programy\program007b-bubble-sort-obrazec\bin\Debug\net9.0\program007b-bubble-sort-obrazec.dll
+C:\github\IS-Programy\program007b-bubble-sort-obrazec\bin\Debug\net9.0\program007b-bubble-sort-obrazec.pdb
+C:\github\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.dll
+C:\github\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\refint\program007b-bubble-sort-obrazec.dll
+C:\github\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.pdb
+C:\github\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.genruntimeconfig.cache
+C:\github\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\ref\program007b-bubble-sort-obrazec.dll

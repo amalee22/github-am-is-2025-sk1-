@@ -5,9 +5,9 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("*******************************************");
-    Console.WriteLine("***** Bubble Sort *****");
+    Console.WriteLine("**************** Bubble Sort **************");
     Console.WriteLine("*******************************************");
-    Console.WriteLine("*************** Tomáš Žižka ***************");
+    Console.WriteLine("************* Amálie Musilová *************");
     Console.WriteLine("*******************************************");
     Console.WriteLine();
     
@@ -97,18 +97,33 @@ while (again == "a")
 
 Console.WriteLine("================================");
 
-int height = [1];
-int width = 0; 
+//výpis proměnných - SecondLargest
+int SecondLargest = myRandNumbs[1]; // Druhé největší číslo v seřazeném poli
+Console.WriteLine($"Druhé největší číslo v poli je: {SecondLargest}"); // Výpis druhého největšího čísla 
+int height = SecondLargest;
+int width = SecondLargest; 
 
 
+// Vytvoření obrazce                    u stringů se používá jenom ' ' místo " " (string funguje jinak, než jen writeline)
+Console.WriteLine(new string('*', width));
+Console.WriteLine(new string('*', width));// Horní okraj obrazce
 
+//prostřed obrazce for cycle  
+for (int i = 0; i < height - 2; i++)
+{
+    Console.WriteLine("*" + new string(' ', width - 2) + "*"); // Levý okraj obrazce
+                        // Vytvoření prostoru uvnitř obrazce 
+                        //největší číslo -2 (pro okraje)
+} 
 
-
+// Spodní okraj obrazce
+Console.WriteLine(new string('*', width));
+Console.WriteLine(new string('*', width));
 
 
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
-    again = Console.ReadLine();
+    again = Console.ReadLine()??""; // ošetření proti null hodnotě pokud je again not null tak to použije tu hodnotu, jinak prázdný string
 
-}
+} 
