@@ -1,45 +1,41 @@
-﻿﻿string again = "a";
+﻿string again = "a";
+
 while (again == "a")
 {
-Console.Clear();
-Console.WriteLine("****************************");
-Console.WriteLine("******** Výpočet PI ********");
-Console.WriteLine("****************************");
-Console.WriteLine("***** Amálie Musilová ******");
-Console.WriteLine("****************************");
-Console.WriteLine();
+    Console.Clear();
+    Console.WriteLine("****************************");
+    Console.WriteLine("******** Výpočet PI ********");
+    Console.WriteLine("****************************");
+    Console.WriteLine("******** Tomáš Žižka *******");
+    Console.WriteLine("****************************");
+    Console.WriteLine();
 
-Console.Write("Zadejte přesnost (reálné číslo - čím menší hodnota, tím bude výpočet přesnější): ");
-double presnost;
-while(!double.TryParse(Console.ReadLine(), out presnost)) {
-Console.Write("Nezadali jste reálné číslo, zadejte přesnost znovu: ");
-}
-
-double i = 1; //jmenovatel
-double znamenko = 1; //počáteční znaménko
-double piCtvrt = 1; 
-
-    while((1/i)>=presnost) { //pokud je hodnota členu větší nebo rovna než zadaná přesnost, pokračuj ve výpočtu
-        i = i + 2; //zvětšení jmenovatele o 2
-        znamenko = -znamenko; //změna znaménka
-        piCtvrt = piCtvrt + znamenko * (1/i); //přičtení dalšího členu do součtu
-
-        if(znamenko==1) {//kladné znaménko
-            Console.WriteLine("Zlomek: +1/{0}; aktuální hodnota PI = {1}", i, 4 * piCtvrt);//výpis aktuální hodnoty
-        }
-        else {
-            Console.WriteLine("Zlomek: -1/{0}; aktuální hodnota PI = {1}", i, 4 * piCtvrt);//záporné znaménko
-        }
+    Console.Write("Zadejte přesnost (reálné číslo – čím menší, tím přesnější): ");
+    double presnost;
+    while (!double.TryParse(Console.ReadLine(), out presnost))
+    {
+        Console.Write("Nezadali jste reálné číslo, zkuste znovu: ");
     }
 
-    Console.WriteLine("\n\n Hodnota čísla PI = {0}", 4 * piCtvrt);
-    //Console.WriteLine("\n\n Hodnota čísla PI = {0:f4}", 4 * piCtvrt);
+    double i = 1;
+    double znamenko = 1;
+    double piCtvrt = 1;    // první člen 1/1
 
-Console.WriteLine();
-Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
-again = Console.ReadLine();
+    // Výpočet
+    while ((1 / i) >= presnost)
+    {
+        i += 2;                 // další liché číslo
+        znamenko = -znamenko;   // otočení znaménka
+        piCtvrt += znamenko * (1 / i);
 
+        string znak = (znamenko == 1) ? "+" : "-";
+        Console.WriteLine($"Zlomek: {znak}1/{i}; aktuální hodnota PI = {4 * piCtvrt}");
+    }
 
+    Console.WriteLine($"\n\nHodnota čísla PI = {4 * piCtvrt}");
+    //Console.WriteLine($"\n\nHodnota čísla PI = {4 * piCtvrt:f4}");
+
+    Console.WriteLine();
+    Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
+    again = Console.ReadLine();
 }
-
-

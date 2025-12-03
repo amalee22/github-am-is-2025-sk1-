@@ -1,0 +1,15 @@
+C:\github\IS-Programy\program012a-intervaly\bin\Debug\net9.0\program012a-intervaly.exe
+C:\github\IS-Programy\program012a-intervaly\bin\Debug\net9.0\program012a-intervaly.deps.json
+C:\github\IS-Programy\program012a-intervaly\bin\Debug\net9.0\program012a-intervaly.runtimeconfig.json
+C:\github\IS-Programy\program012a-intervaly\bin\Debug\net9.0\program012a-intervaly.dll
+C:\github\IS-Programy\program012a-intervaly\bin\Debug\net9.0\program012a-intervaly.pdb
+C:\github\IS-Programy\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.AssemblyInfoInputs.cache
+C:\github\IS-Programy\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.AssemblyInfo.cs
+C:\github\IS-Programy\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.sourcelink.json
+C:\github\IS-Programy\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.dll
+C:\github\IS-Programy\program012a-intervaly\obj\Debug\net9.0\refint\program012a-intervaly.dll
+C:\github\IS-Programy\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.pdb
+C:\github\IS-Programy\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.genruntimeconfig.cache
+C:\github\IS-Programy\program012a-intervaly\obj\Debug\net9.0\ref\program012a-intervaly.dll

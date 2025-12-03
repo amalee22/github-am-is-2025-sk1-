@@ -1,0 +1,15 @@
+C:\github\IS-Programy\program013a-NSD-NSN\bin\Debug\net9.0\program013a-NSD-NSN.exe
+C:\github\IS-Programy\program013a-NSD-NSN\bin\Debug\net9.0\program013a-NSD-NSN.deps.json
+C:\github\IS-Programy\program013a-NSD-NSN\bin\Debug\net9.0\program013a-NSD-NSN.runtimeconfig.json
+C:\github\IS-Programy\program013a-NSD-NSN\bin\Debug\net9.0\program013a-NSD-NSN.dll
+C:\github\IS-Programy\program013a-NSD-NSN\bin\Debug\net9.0\program013a-NSD-NSN.pdb
+C:\github\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\program013a-NSD-NSN.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\program013a-NSD-NSN.AssemblyInfoInputs.cache
+C:\github\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\program013a-NSD-NSN.AssemblyInfo.cs
+C:\github\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\program013a-NSD-NSN.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\program013a-NSD-NSN.sourcelink.json
+C:\github\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\program013a-NSD-NSN.dll
+C:\github\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\refint\program013a-NSD-NSN.dll
+C:\github\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\program013a-NSD-NSN.pdb
+C:\github\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\program013a-NSD-NSN.genruntimeconfig.cache
+C:\github\IS-Programy\program013a-NSD-NSN\obj\Debug\net9.0\ref\program013a-NSD-NSN.dll

@@ -1,98 +1,75 @@
-﻿using System.Diagnostics.CodeAnalysis;
-
+﻿
 string again = "a";
-while (again == "a")
-{
-    Console.Clear();
-    Console.WriteLine("************************************************");
-    Console.WriteLine("***** Generátor pseudonáhodných čísel **********");
-    Console.WriteLine("************************************************");
-    Console.WriteLine("************** Amálie Musilová *****************");
-    Console.WriteLine("************************************************");
-    Console.WriteLine();
+        
+        while(again == "a") {
+            Console.Clear();
+            Console.WriteLine("*******************************************");
+            Console.WriteLine("***** Intervaly *****");
+            Console.WriteLine("*******************************************");
+            Console.WriteLine("************* Tomáš Žižka *****************");
+            Console.WriteLine("*******************************************");
+            Console.WriteLine();
 
-    // Vstup hodnoty do programu - špatně řešený
-    //Console.Write("Zadejte první číslo řady: ");
-    //int first = int.Parse(Console.ReadLine());
+            Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
+            int n;
+            while(!int.TryParse(Console.ReadLine(), out n)) {
+                Console.Write("Nezadali jste celé číslo. Zadejte počet generovaných čísel znovu: ");
+            }
 
-    //Vstup hodnoty do programu - řešený správně
-    Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
-    int n; //proměnná pro počet čísel n 
+            Console.Write("Zadejte dolní mez (celé číslo): ");
+            int dm;
+            while(!int.TryParse(Console.ReadLine(), out dm)) {
+                Console.Write("Nezadali jste celé číslo. Zadejte dolní mez znovu: ");
+            }
 
-    while (!int.TryParse(Console.ReadLine(), out n))
-    {
-        Console.Write("Nezadali jste celé číslo. Zadejte znovu počet čísel: ");
-    }
+            Console.Write("Zadejte horní mez (celé číslo): ");
+            int hm;
+            while(!int.TryParse(Console.ReadLine(), out hm)) {
+                Console.Write("Nezadali jste celé číslo. Zadejte horní mez znovu: ");
+            }
 
-    //DOLNÍ MEZ 
-    Console.Write("Zadejte dolní mez (celé číslo): ");
-    int lowerBound;
+            Console.WriteLine();
+            Console.WriteLine("==========================================");
+            Console.WriteLine("Zadané hodnoty:");
+            Console.WriteLine("Počet čísel: {0}; dolní mez: {1}; horní mez: {2}", n, dm, hm);
+            Console.WriteLine("==========================================");
+            Console.WriteLine();
 
-    while (!int.TryParse(Console.ReadLine(), out lowerBound))
-    {
-        Console.Write("Nezadali jste celé číslo. Zadejte znovu dolní mez: ");
-    }
+            //deklarace pole    
+            int[] myArray = new int[n]; //pole pro uložení náhodných čísel
 
+            Random randomNumber = new Random(); //vytvoření instance třídy Random
 
-    //HORNÍ MEZ 
-    Console.Write("Zadejte horní mez (celé číslo): ");
-    int upperBound;
-            
-             // || upperbound < lowerbound - dvě čárky jsou OR - je to číslo nebo není číslo n  a zároveň je horní mez větší než dolní mez
-    while (!int.TryParse(Console.ReadLine(), out upperBound) || upperBound < lowerBound)
-    // explaination: while the input is not an integer *OR* the upper bound is LESS THAN the lower bound
-    {
-        if (upperBound < lowerBound)
-        {
-            Console.Write($"horní mez musí být větší než dolní mez ({lowerBound}). Zadejte horní mez znovu: ");
+            int int1=0; //počítadla pro intervaly
+            int int2=0;
+            int int3=0;
+            int int4=0;
+
+            Console.WriteLine("\n\nNáhodná čísla:");  //výpis generovaných náhodných čísel
+            for(int i=0; i<n; i++) { //cyklus pro generování náhodných čísel
+                myArray[i] = randomNumber.Next(dm, hm+1);//generování náhodného čísla v rozsahu dm - hm
+                Console.Write("{0}; ", myArray[i]);
+
+                if(myArray[i]<= (0.25 * hm)) { 
+                    int1++;//počítadlo pro první interval
+                }
+                else if(myArray[i] <= (0.5 * hm)) {
+                    int2++;//počítadlo pro druhý interval
+                }
+                else if(myArray[i] <= (0.75 * hm)) {
+                    int3++;//počítadlo pro třetí interval
+                }
+                else
+                    int4++;//počítadlo pro čtvrtý interval
+           }
+
+            Console.WriteLine("\nInterval <{0}, {1}>: {2}", dm, 0.25 * hm, int1);
+            Console.WriteLine("Interval <{0}, {1}>: {2}", 0.25 * hm + 1, 0.5 * hm, int2);
+            Console.WriteLine("Interval <{0}, {1}>: {2}", 0.5 * hm + 1, 0.75 * hm, int3);
+            Console.WriteLine("Interval <{0}, {1}>: {2}", 0.75 * hm  + 1, hm, int4);
+
+            Console.WriteLine();
+            Console.WriteLine("Pro opakování programu stiskněte klávesu A");
+            again = Console.ReadLine();
+
         }
-        else
-        {
-            Console.Write("Nezadali jste celé číslo. Zadejte znovu horní mez: ");
-        }
-    }
-
-
-    Console.WriteLine();
-    Console.WriteLine("======================================================");
-    Console.WriteLine("Zadané hodnoty: "); //vypsání zadaných hodnot 
-    Console.WriteLine($"Počet generovaných čísel: {n}; Dolní mez :{lowerBound}; Horní mez: {upperBound}");
-    Console.WriteLine("======================================================");
-
-
-    //DEKLARACE POLE - ARRAY hooray
-    // jen jmenování mé proměnné  ,  instance třídy int - nadeklarování pole celých čísel  
-    int[] myRandomNumbers = new int[n];
-
-
-    //vytvoření objektu  - POZOR- JEN NUMBER NE S - mn.č. /generování stejných čísel při stejném vstupu - hodí se pro TESTOVÁNÍ 
-    Random myRandomNumber = new Random();
-
-    //ŘEŠÍ ZÁPORNÁM KLADNÁ A NULOVÁ ČÍSLA
-    int negativeNumbers = 0; // vynulování záporných čísel 
-    int positiveNumbers = 0; // vynulování kladných čísel
-    int zeroNumbers = 0; // vynulování nulových čísel
-
-    //2. kategorie - SUDOST A LICHOST 
-    int evenNumbers = 0; // vynulování sudých čísel
-    int oddNumbers = 0; // vynulování lichých čísel
-
-
-    Console.WriteLine();
-    Console.WriteLine("======================================================");
-    Console.WriteLine("Pseudonáhodná čísla:  ");
-
-    for (int i = 0; i < n; i++) // cyklus pro generování n čísel
-    {
-        myRandomNumbers[i] = myRandomNumber.Next(lowerBound, upperBound + 1);
-
-        Console.Write(myRandomNumbers[i] + " "); //výpis generovaných čísel +" " - mezera mezi číslíčky :)   
-    }
-    Console.WriteLine();
-
-    Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
-
-
-#pragma warning disable CS8600 // Converting null literal or possible null value to 
-again = Console.ReadLine();
-}
