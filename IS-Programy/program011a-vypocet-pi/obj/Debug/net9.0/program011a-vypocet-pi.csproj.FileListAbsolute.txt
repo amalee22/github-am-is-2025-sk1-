@@ -1,0 +1,15 @@
+C:\github\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.AssemblyInfoInputs.cache
+C:\github\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.AssemblyInfo.cs
+C:\github\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.sourcelink.json
+C:\github\IS-Programy\program011a-vypocet-pi\bin\Debug\net9.0\program011a-vypocet-pi.exe
+C:\github\IS-Programy\program011a-vypocet-pi\bin\Debug\net9.0\program011a-vypocet-pi.deps.json
+C:\github\IS-Programy\program011a-vypocet-pi\bin\Debug\net9.0\program011a-vypocet-pi.runtimeconfig.json
+C:\github\IS-Programy\program011a-vypocet-pi\bin\Debug\net9.0\program011a-vypocet-pi.dll
+C:\github\IS-Programy\program011a-vypocet-pi\bin\Debug\net9.0\program011a-vypocet-pi.pdb
+C:\github\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.dll
+C:\github\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\refint\program011a-vypocet-pi.dll
+C:\github\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.pdb
+C:\github\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.genruntimeconfig.cache
+C:\github\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\ref\program011a-vypocet-pi.dll
