@@ -11,19 +11,19 @@ while (again == "a")
 
     //Vstup hodnoty do programu - řešený správně
     Console.Write("Zadejte hodnotu (přirozené číslo) - desítkové číslo: ");
-    uint number10;
+    int number10;
 
-    while (!uint.TryParse(Console.ReadLine(), out number10))
+    while (!int.TryParse(Console.ReadLine(), out number10))
     {
         Console.Write("Nezadali jste přirozené číslo. Zadejte hodnotu znovu (přirozené číslo) - desítkové číslo: ");
     }
 
-    uint backupNumber10 = number10;
-    uint zbytek;
+    int backupNumber10 = number10;
+    int zbytek;
 
-    uint[] myArray = new uint[32];
+    int[] myArray = new int[32];
 
-    uint i;
+    int i;
     for (i = 0; number10 > 0; i++)
     {
         zbytek = number10 % 2;
@@ -34,7 +34,7 @@ while (again == "a")
     }
 
     Console.WriteLine();
-    for (uint j=i-1;j>=0;j--) {
+    for (int j=i-1;j>=0;j--) {
         Console.Write("{0}", myArray[j]);
     }
 

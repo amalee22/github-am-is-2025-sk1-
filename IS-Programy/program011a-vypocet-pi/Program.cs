@@ -17,7 +17,8 @@ while (again == "a")
         Console.Write("Nezadali jste reálné číslo, zkuste znovu: ");
     }
 
-    double i = 1;
+    // double i = 1;                 // první liché číslo
+    
     double znamenko = 1;
     double piCtvrt = 1;    // první člen 1/1
 
