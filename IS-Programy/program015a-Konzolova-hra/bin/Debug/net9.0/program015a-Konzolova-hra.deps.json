@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "program015a-Konzolova-hra/1.0.0": {
+        "runtime": {
+          "program015a-Konzolova-hra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program015a-Konzolova-hra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

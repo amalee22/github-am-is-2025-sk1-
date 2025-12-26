@@ -1,0 +1,15 @@
+C:\github\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.exe
+C:\github\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.deps.json
+C:\github\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.runtimeconfig.json
+C:\github\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.dll
+C:\github\IS-Programy\program015a-Konzolova-hra\bin\Debug\net9.0\program015a-Konzolova-hra.pdb
+C:\github\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.AssemblyInfoInputs.cache
+C:\github\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.AssemblyInfo.cs
+C:\github\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.sourcelink.json
+C:\github\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.dll
+C:\github\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\refint\program015a-Konzolova-hra.dll
+C:\github\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.pdb
+C:\github\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\program015a-Konzolova-hra.genruntimeconfig.cache
+C:\github\IS-Programy\program015a-Konzolova-hra\obj\Debug\net9.0\ref\program015a-Konzolova-hra.dll
