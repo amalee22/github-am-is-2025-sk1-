@@ -1,0 +1,15 @@
+C:\github\C#_course\9_exercise_storinguserdata\bin\Debug\net9.0\9_exercise_storinguserdata.exe
+C:\github\C#_course\9_exercise_storinguserdata\bin\Debug\net9.0\9_exercise_storinguserdata.deps.json
+C:\github\C#_course\9_exercise_storinguserdata\bin\Debug\net9.0\9_exercise_storinguserdata.runtimeconfig.json
+C:\github\C#_course\9_exercise_storinguserdata\bin\Debug\net9.0\9_exercise_storinguserdata.dll
+C:\github\C#_course\9_exercise_storinguserdata\bin\Debug\net9.0\9_exercise_storinguserdata.pdb
+C:\github\C#_course\9_exercise_storinguserdata\obj\Debug\net9.0\9_exercise_storinguserdata.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C#_course\9_exercise_storinguserdata\obj\Debug\net9.0\9_exercise_storinguserdata.AssemblyInfoInputs.cache
+C:\github\C#_course\9_exercise_storinguserdata\obj\Debug\net9.0\9_exercise_storinguserdata.AssemblyInfo.cs
+C:\github\C#_course\9_exercise_storinguserdata\obj\Debug\net9.0\9_exercise_storinguserdata.csproj.CoreCompileInputs.cache
+C:\github\C#_course\9_exercise_storinguserdata\obj\Debug\net9.0\9_exercise_storinguserdata.sourcelink.json
+C:\github\C#_course\9_exercise_storinguserdata\obj\Debug\net9.0\9_exercise_storinguserdata.dll
+C:\github\C#_course\9_exercise_storinguserdata\obj\Debug\net9.0\refint\9_exercise_storinguserdata.dll
+C:\github\C#_course\9_exercise_storinguserdata\obj\Debug\net9.0\9_exercise_storinguserdata.pdb
+C:\github\C#_course\9_exercise_storinguserdata\obj\Debug\net9.0\9_exercise_storinguserdata.genruntimeconfig.cache
+C:\github\C#_course\9_exercise_storinguserdata\obj\Debug\net9.0\ref\9_exercise_storinguserdata.dll

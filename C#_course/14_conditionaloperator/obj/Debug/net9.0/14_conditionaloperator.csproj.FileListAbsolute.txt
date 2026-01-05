@@ -1,0 +1,15 @@
+C:\github\C#_course\14_conditionaloperator\bin\Debug\net9.0\14_conditionaloperator.exe
+C:\github\C#_course\14_conditionaloperator\bin\Debug\net9.0\14_conditionaloperator.deps.json
+C:\github\C#_course\14_conditionaloperator\bin\Debug\net9.0\14_conditionaloperator.runtimeconfig.json
+C:\github\C#_course\14_conditionaloperator\bin\Debug\net9.0\14_conditionaloperator.dll
+C:\github\C#_course\14_conditionaloperator\bin\Debug\net9.0\14_conditionaloperator.pdb
+C:\github\C#_course\14_conditionaloperator\obj\Debug\net9.0\14_conditionaloperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C#_course\14_conditionaloperator\obj\Debug\net9.0\14_conditionaloperator.AssemblyInfoInputs.cache
+C:\github\C#_course\14_conditionaloperator\obj\Debug\net9.0\14_conditionaloperator.AssemblyInfo.cs
+C:\github\C#_course\14_conditionaloperator\obj\Debug\net9.0\14_conditionaloperator.csproj.CoreCompileInputs.cache
+C:\github\C#_course\14_conditionaloperator\obj\Debug\net9.0\14_conditionaloperator.sourcelink.json
+C:\github\C#_course\14_conditionaloperator\obj\Debug\net9.0\14_conditionaloperator.dll
+C:\github\C#_course\14_conditionaloperator\obj\Debug\net9.0\refint\14_conditionaloperator.dll
+C:\github\C#_course\14_conditionaloperator\obj\Debug\net9.0\14_conditionaloperator.pdb
+C:\github\C#_course\14_conditionaloperator\obj\Debug\net9.0\14_conditionaloperator.genruntimeconfig.cache
+C:\github\C#_course\14_conditionaloperator\obj\Debug\net9.0\ref\14_conditionaloperator.dll

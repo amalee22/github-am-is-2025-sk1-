@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "9_exercise_storinguserdata/1.0.0": {
+        "runtime": {
+          "9_exercise_storinguserdata.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "9_exercise_storinguserdata/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

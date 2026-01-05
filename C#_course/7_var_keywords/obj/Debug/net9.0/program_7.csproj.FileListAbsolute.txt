@@ -1,0 +1,15 @@
+C:\github\program_7\obj\Debug\net9.0\program_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\program_7\obj\Debug\net9.0\program_7.AssemblyInfoInputs.cache
+C:\github\program_7\obj\Debug\net9.0\program_7.AssemblyInfo.cs
+C:\github\program_7\obj\Debug\net9.0\program_7.csproj.CoreCompileInputs.cache
+C:\github\program_7\obj\Debug\net9.0\program_7.sourcelink.json
+C:\github\program_7\bin\Debug\net9.0\program_7.exe
+C:\github\program_7\bin\Debug\net9.0\program_7.deps.json
+C:\github\program_7\bin\Debug\net9.0\program_7.runtimeconfig.json
+C:\github\program_7\bin\Debug\net9.0\program_7.dll
+C:\github\program_7\bin\Debug\net9.0\program_7.pdb
+C:\github\program_7\obj\Debug\net9.0\program_7.dll
+C:\github\program_7\obj\Debug\net9.0\refint\program_7.dll
+C:\github\program_7\obj\Debug\net9.0\program_7.pdb
+C:\github\program_7\obj\Debug\net9.0\program_7.genruntimeconfig.cache
+C:\github\program_7\obj\Debug\net9.0\ref\program_7.dll

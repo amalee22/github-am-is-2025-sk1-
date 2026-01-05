@@ -1,0 +1,15 @@
+C:\github\IS-Programy\nevim\bin\Debug\net9.0\nevim.exe
+C:\github\IS-Programy\nevim\bin\Debug\net9.0\nevim.deps.json
+C:\github\IS-Programy\nevim\bin\Debug\net9.0\nevim.runtimeconfig.json
+C:\github\IS-Programy\nevim\bin\Debug\net9.0\nevim.dll
+C:\github\IS-Programy\nevim\bin\Debug\net9.0\nevim.pdb
+C:\github\IS-Programy\nevim\obj\Debug\net9.0\nevim.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\nevim\obj\Debug\net9.0\nevim.AssemblyInfoInputs.cache
+C:\github\IS-Programy\nevim\obj\Debug\net9.0\nevim.AssemblyInfo.cs
+C:\github\IS-Programy\nevim\obj\Debug\net9.0\nevim.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\nevim\obj\Debug\net9.0\nevim.sourcelink.json
+C:\github\IS-Programy\nevim\obj\Debug\net9.0\nevim.dll
+C:\github\IS-Programy\nevim\obj\Debug\net9.0\refint\nevim.dll
+C:\github\IS-Programy\nevim\obj\Debug\net9.0\nevim.pdb
+C:\github\IS-Programy\nevim\obj\Debug\net9.0\nevim.genruntimeconfig.cache
+C:\github\IS-Programy\nevim\obj\Debug\net9.0\ref\nevim.dll

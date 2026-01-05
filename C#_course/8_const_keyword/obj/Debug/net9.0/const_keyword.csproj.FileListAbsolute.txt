@@ -1,0 +1,15 @@
+C:\github\C#_course\8_const_keyword\bin\Debug\net9.0\const_keyword.exe
+C:\github\C#_course\8_const_keyword\bin\Debug\net9.0\const_keyword.deps.json
+C:\github\C#_course\8_const_keyword\bin\Debug\net9.0\const_keyword.runtimeconfig.json
+C:\github\C#_course\8_const_keyword\bin\Debug\net9.0\const_keyword.dll
+C:\github\C#_course\8_const_keyword\bin\Debug\net9.0\const_keyword.pdb
+C:\github\C#_course\8_const_keyword\obj\Debug\net9.0\const_keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C#_course\8_const_keyword\obj\Debug\net9.0\const_keyword.AssemblyInfoInputs.cache
+C:\github\C#_course\8_const_keyword\obj\Debug\net9.0\const_keyword.AssemblyInfo.cs
+C:\github\C#_course\8_const_keyword\obj\Debug\net9.0\const_keyword.csproj.CoreCompileInputs.cache
+C:\github\C#_course\8_const_keyword\obj\Debug\net9.0\const_keyword.sourcelink.json
+C:\github\C#_course\8_const_keyword\obj\Debug\net9.0\const_keyword.dll
+C:\github\C#_course\8_const_keyword\obj\Debug\net9.0\refint\const_keyword.dll
+C:\github\C#_course\8_const_keyword\obj\Debug\net9.0\const_keyword.pdb
+C:\github\C#_course\8_const_keyword\obj\Debug\net9.0\const_keyword.genruntimeconfig.cache
+C:\github\C#_course\8_const_keyword\obj\Debug\net9.0\ref\const_keyword.dll

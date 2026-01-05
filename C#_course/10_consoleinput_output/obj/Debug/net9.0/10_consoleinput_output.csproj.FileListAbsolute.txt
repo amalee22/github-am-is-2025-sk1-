@@ -1,0 +1,15 @@
+C:\github\C#_course\10_consoleinput_output\bin\Debug\net9.0\10_consoleinput_output.exe
+C:\github\C#_course\10_consoleinput_output\bin\Debug\net9.0\10_consoleinput_output.deps.json
+C:\github\C#_course\10_consoleinput_output\bin\Debug\net9.0\10_consoleinput_output.runtimeconfig.json
+C:\github\C#_course\10_consoleinput_output\bin\Debug\net9.0\10_consoleinput_output.dll
+C:\github\C#_course\10_consoleinput_output\bin\Debug\net9.0\10_consoleinput_output.pdb
+C:\github\C#_course\10_consoleinput_output\obj\Debug\net9.0\10_consoleinput_output.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C#_course\10_consoleinput_output\obj\Debug\net9.0\10_consoleinput_output.AssemblyInfoInputs.cache
+C:\github\C#_course\10_consoleinput_output\obj\Debug\net9.0\10_consoleinput_output.AssemblyInfo.cs
+C:\github\C#_course\10_consoleinput_output\obj\Debug\net9.0\10_consoleinput_output.csproj.CoreCompileInputs.cache
+C:\github\C#_course\10_consoleinput_output\obj\Debug\net9.0\10_consoleinput_output.sourcelink.json
+C:\github\C#_course\10_consoleinput_output\obj\Debug\net9.0\10_consoleinput_output.dll
+C:\github\C#_course\10_consoleinput_output\obj\Debug\net9.0\refint\10_consoleinput_output.dll
+C:\github\C#_course\10_consoleinput_output\obj\Debug\net9.0\10_consoleinput_output.pdb
+C:\github\C#_course\10_consoleinput_output\obj\Debug\net9.0\10_consoleinput_output.genruntimeconfig.cache
+C:\github\C#_course\10_consoleinput_output\obj\Debug\net9.0\ref\10_consoleinput_output.dll

@@ -1,0 +1,15 @@
+C:\github\C#_course\13_whileloops\bin\Debug\net9.0\13_whileloops.exe
+C:\github\C#_course\13_whileloops\bin\Debug\net9.0\13_whileloops.deps.json
+C:\github\C#_course\13_whileloops\bin\Debug\net9.0\13_whileloops.runtimeconfig.json
+C:\github\C#_course\13_whileloops\bin\Debug\net9.0\13_whileloops.dll
+C:\github\C#_course\13_whileloops\bin\Debug\net9.0\13_whileloops.pdb
+C:\github\C#_course\13_whileloops\obj\Debug\net9.0\13_whileloops.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C#_course\13_whileloops\obj\Debug\net9.0\13_whileloops.AssemblyInfoInputs.cache
+C:\github\C#_course\13_whileloops\obj\Debug\net9.0\13_whileloops.AssemblyInfo.cs
+C:\github\C#_course\13_whileloops\obj\Debug\net9.0\13_whileloops.csproj.CoreCompileInputs.cache
+C:\github\C#_course\13_whileloops\obj\Debug\net9.0\13_whileloops.sourcelink.json
+C:\github\C#_course\13_whileloops\obj\Debug\net9.0\13_whileloops.dll
+C:\github\C#_course\13_whileloops\obj\Debug\net9.0\refint\13_whileloops.dll
+C:\github\C#_course\13_whileloops\obj\Debug\net9.0\13_whileloops.pdb
+C:\github\C#_course\13_whileloops\obj\Debug\net9.0\13_whileloops.genruntimeconfig.cache
+C:\github\C#_course\13_whileloops\obj\Debug\net9.0\ref\13_whileloops.dll

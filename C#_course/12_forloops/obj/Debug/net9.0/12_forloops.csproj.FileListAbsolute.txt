@@ -1,0 +1,15 @@
+C:\github\C#_course\12_forloops\bin\Debug\net9.0\12_forloops.exe
+C:\github\C#_course\12_forloops\bin\Debug\net9.0\12_forloops.deps.json
+C:\github\C#_course\12_forloops\bin\Debug\net9.0\12_forloops.runtimeconfig.json
+C:\github\C#_course\12_forloops\bin\Debug\net9.0\12_forloops.dll
+C:\github\C#_course\12_forloops\bin\Debug\net9.0\12_forloops.pdb
+C:\github\C#_course\12_forloops\obj\Debug\net9.0\12_forloops.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C#_course\12_forloops\obj\Debug\net9.0\12_forloops.AssemblyInfoInputs.cache
+C:\github\C#_course\12_forloops\obj\Debug\net9.0\12_forloops.AssemblyInfo.cs
+C:\github\C#_course\12_forloops\obj\Debug\net9.0\12_forloops.csproj.CoreCompileInputs.cache
+C:\github\C#_course\12_forloops\obj\Debug\net9.0\12_forloops.sourcelink.json
+C:\github\C#_course\12_forloops\obj\Debug\net9.0\12_forloops.dll
+C:\github\C#_course\12_forloops\obj\Debug\net9.0\refint\12_forloops.dll
+C:\github\C#_course\12_forloops\obj\Debug\net9.0\12_forloops.pdb
+C:\github\C#_course\12_forloops\obj\Debug\net9.0\12_forloops.genruntimeconfig.cache
+C:\github\C#_course\12_forloops\obj\Debug\net9.0\ref\12_forloops.dll

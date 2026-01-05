@@ -1,0 +1,15 @@
+C:\github\C#_course\15_numericformatting\bin\Debug\net9.0\15_numericformatting.exe
+C:\github\C#_course\15_numericformatting\bin\Debug\net9.0\15_numericformatting.deps.json
+C:\github\C#_course\15_numericformatting\bin\Debug\net9.0\15_numericformatting.runtimeconfig.json
+C:\github\C#_course\15_numericformatting\bin\Debug\net9.0\15_numericformatting.dll
+C:\github\C#_course\15_numericformatting\bin\Debug\net9.0\15_numericformatting.pdb
+C:\github\C#_course\15_numericformatting\obj\Debug\net9.0\15_numericformatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C#_course\15_numericformatting\obj\Debug\net9.0\15_numericformatting.AssemblyInfoInputs.cache
+C:\github\C#_course\15_numericformatting\obj\Debug\net9.0\15_numericformatting.AssemblyInfo.cs
+C:\github\C#_course\15_numericformatting\obj\Debug\net9.0\15_numericformatting.csproj.CoreCompileInputs.cache
+C:\github\C#_course\15_numericformatting\obj\Debug\net9.0\15_numericformatting.sourcelink.json
+C:\github\C#_course\15_numericformatting\obj\Debug\net9.0\15_numericformatting.dll
+C:\github\C#_course\15_numericformatting\obj\Debug\net9.0\refint\15_numericformatting.dll
+C:\github\C#_course\15_numericformatting\obj\Debug\net9.0\15_numericformatting.pdb
+C:\github\C#_course\15_numericformatting\obj\Debug\net9.0\15_numericformatting.genruntimeconfig.cache
+C:\github\C#_course\15_numericformatting\obj\Debug\net9.0\ref\15_numericformatting.dll

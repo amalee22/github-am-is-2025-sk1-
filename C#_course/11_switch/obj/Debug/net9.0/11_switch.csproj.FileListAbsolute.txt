@@ -1,0 +1,15 @@
+C:\github\C#_course\11_switch\bin\Debug\net9.0\11_switch.exe
+C:\github\C#_course\11_switch\bin\Debug\net9.0\11_switch.deps.json
+C:\github\C#_course\11_switch\bin\Debug\net9.0\11_switch.runtimeconfig.json
+C:\github\C#_course\11_switch\bin\Debug\net9.0\11_switch.dll
+C:\github\C#_course\11_switch\bin\Debug\net9.0\11_switch.pdb
+C:\github\C#_course\11_switch\obj\Debug\net9.0\11_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C#_course\11_switch\obj\Debug\net9.0\11_switch.AssemblyInfoInputs.cache
+C:\github\C#_course\11_switch\obj\Debug\net9.0\11_switch.AssemblyInfo.cs
+C:\github\C#_course\11_switch\obj\Debug\net9.0\11_switch.csproj.CoreCompileInputs.cache
+C:\github\C#_course\11_switch\obj\Debug\net9.0\11_switch.sourcelink.json
+C:\github\C#_course\11_switch\obj\Debug\net9.0\11_switch.dll
+C:\github\C#_course\11_switch\obj\Debug\net9.0\refint\11_switch.dll
+C:\github\C#_course\11_switch\obj\Debug\net9.0\11_switch.pdb
+C:\github\C#_course\11_switch\obj\Debug\net9.0\11_switch.genruntimeconfig.cache
+C:\github\C#_course\11_switch\obj\Debug\net9.0\ref\11_switch.dll

@@ -1,0 +1,15 @@
+C:\github\C#_course\ZKOUSKA\obj\Debug\net9.0\ZKOUSKA.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C#_course\ZKOUSKA\obj\Debug\net9.0\ZKOUSKA.AssemblyInfoInputs.cache
+C:\github\C#_course\ZKOUSKA\obj\Debug\net9.0\ZKOUSKA.AssemblyInfo.cs
+C:\github\C#_course\ZKOUSKA\obj\Debug\net9.0\ZKOUSKA.csproj.CoreCompileInputs.cache
+C:\github\C#_course\ZKOUSKA\obj\Debug\net9.0\ZKOUSKA.sourcelink.json
+C:\github\C#_course\ZKOUSKA\bin\Debug\net9.0\ZKOUSKA.exe
+C:\github\C#_course\ZKOUSKA\bin\Debug\net9.0\ZKOUSKA.deps.json
+C:\github\C#_course\ZKOUSKA\bin\Debug\net9.0\ZKOUSKA.runtimeconfig.json
+C:\github\C#_course\ZKOUSKA\bin\Debug\net9.0\ZKOUSKA.dll
+C:\github\C#_course\ZKOUSKA\bin\Debug\net9.0\ZKOUSKA.pdb
+C:\github\C#_course\ZKOUSKA\obj\Debug\net9.0\ZKOUSKA.dll
+C:\github\C#_course\ZKOUSKA\obj\Debug\net9.0\refint\ZKOUSKA.dll
+C:\github\C#_course\ZKOUSKA\obj\Debug\net9.0\ZKOUSKA.pdb
+C:\github\C#_course\ZKOUSKA\obj\Debug\net9.0\ZKOUSKA.genruntimeconfig.cache
+C:\github\C#_course\ZKOUSKA\obj\Debug\net9.0\ref\ZKOUSKA.dll

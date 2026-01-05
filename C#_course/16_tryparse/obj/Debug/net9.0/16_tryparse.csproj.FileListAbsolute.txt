@@ -1,0 +1,15 @@
+C:\github\C#_course\16_tryparse\bin\Debug\net9.0\16_tryparse.exe
+C:\github\C#_course\16_tryparse\bin\Debug\net9.0\16_tryparse.deps.json
+C:\github\C#_course\16_tryparse\bin\Debug\net9.0\16_tryparse.runtimeconfig.json
+C:\github\C#_course\16_tryparse\bin\Debug\net9.0\16_tryparse.dll
+C:\github\C#_course\16_tryparse\bin\Debug\net9.0\16_tryparse.pdb
+C:\github\C#_course\16_tryparse\obj\Debug\net9.0\16_tryparse.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C#_course\16_tryparse\obj\Debug\net9.0\16_tryparse.AssemblyInfoInputs.cache
+C:\github\C#_course\16_tryparse\obj\Debug\net9.0\16_tryparse.AssemblyInfo.cs
+C:\github\C#_course\16_tryparse\obj\Debug\net9.0\16_tryparse.csproj.CoreCompileInputs.cache
+C:\github\C#_course\16_tryparse\obj\Debug\net9.0\16_tryparse.sourcelink.json
+C:\github\C#_course\16_tryparse\obj\Debug\net9.0\16_tryparse.dll
+C:\github\C#_course\16_tryparse\obj\Debug\net9.0\refint\16_tryparse.dll
+C:\github\C#_course\16_tryparse\obj\Debug\net9.0\16_tryparse.pdb
+C:\github\C#_course\16_tryparse\obj\Debug\net9.0\16_tryparse.genruntimeconfig.cache
+C:\github\C#_course\16_tryparse\obj\Debug\net9.0\ref\16_tryparse.dll
