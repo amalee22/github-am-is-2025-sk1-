@@ -3,11 +3,11 @@
 while (again == "a")
 {
     Console.Clear();
-    Console.WriteLine("****************************");
-    Console.WriteLine("******** Výpočet PI ********");
-    Console.WriteLine("****************************");
-    Console.WriteLine("******** Tomáš Žižka *******");
-    Console.WriteLine("****************************");
+    Console.WriteLine("********************************");
+    Console.WriteLine("********** Výpočet PI **********");
+    Console.WriteLine("********************************");
+    Console.WriteLine("******** Amálie Musilová *******");
+    Console.WriteLine("********************************");
     Console.WriteLine();
 
     Console.Write("Zadejte přesnost (reálné číslo – čím menší, tím přesnější): ");

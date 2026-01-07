@@ -1,0 +1,15 @@
+C:\github\IS-Programy\program010a-prvni\bin\Debug\net9.0\program010a-prvni.exe
+C:\github\IS-Programy\program010a-prvni\bin\Debug\net9.0\program010a-prvni.deps.json
+C:\github\IS-Programy\program010a-prvni\bin\Debug\net9.0\program010a-prvni.runtimeconfig.json
+C:\github\IS-Programy\program010a-prvni\bin\Debug\net9.0\program010a-prvni.dll
+C:\github\IS-Programy\program010a-prvni\bin\Debug\net9.0\program010a-prvni.pdb
+C:\github\IS-Programy\program010a-prvni\obj\Debug\net9.0\program010a-prvni.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\program010a-prvni\obj\Debug\net9.0\program010a-prvni.AssemblyInfoInputs.cache
+C:\github\IS-Programy\program010a-prvni\obj\Debug\net9.0\program010a-prvni.AssemblyInfo.cs
+C:\github\IS-Programy\program010a-prvni\obj\Debug\net9.0\program010a-prvni.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\program010a-prvni\obj\Debug\net9.0\program010a-prvni.sourcelink.json
+C:\github\IS-Programy\program010a-prvni\obj\Debug\net9.0\program010a-prvni.dll
+C:\github\IS-Programy\program010a-prvni\obj\Debug\net9.0\refint\program010a-prvni.dll
+C:\github\IS-Programy\program010a-prvni\obj\Debug\net9.0\program010a-prvni.pdb
+C:\github\IS-Programy\program010a-prvni\obj\Debug\net9.0\program010a-prvni.genruntimeconfig.cache
+C:\github\IS-Programy\program010a-prvni\obj\Debug\net9.0\ref\program010a-prvni.dll
