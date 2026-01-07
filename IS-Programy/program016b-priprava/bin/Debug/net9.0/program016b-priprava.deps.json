@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "program016b-priprava/1.0.0": {
+        "runtime": {
+          "program016b-priprava.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program016b-priprava/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
