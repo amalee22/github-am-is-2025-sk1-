@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("program010a-prvni")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("program010b-druhy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff56b9e3397a7c362af0d2df44dff144994ffebf")]
-[assembly: System.Reflection.AssemblyProductAttribute("program010a-prvni")]
-[assembly: System.Reflection.AssemblyTitleAttribute("program010a-prvni")]
+[assembly: System.Reflection.AssemblyProductAttribute("program010b-druhy")]
+[assembly: System.Reflection.AssemblyTitleAttribute("program010b-druhy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild

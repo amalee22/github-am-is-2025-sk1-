@@ -93,6 +93,6 @@ while (again == "a")
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
 
 
-#pragma warning disable CS8600 // Converting null literal or possible null value to 
-again = Console.ReadLine();
+
+again = Console.ReadLine()?? "";
 }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "program010b-druhy/1.0.0": {
+        "runtime": {
+          "program010b-druhy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program010b-druhy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

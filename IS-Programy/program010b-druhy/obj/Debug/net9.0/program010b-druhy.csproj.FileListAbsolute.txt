@@ -1,0 +1,15 @@
+C:\github\IS-Programy\program010b-druhy\bin\Debug\net9.0\program010b-druhy.exe
+C:\github\IS-Programy\program010b-druhy\bin\Debug\net9.0\program010b-druhy.deps.json
+C:\github\IS-Programy\program010b-druhy\bin\Debug\net9.0\program010b-druhy.runtimeconfig.json
+C:\github\IS-Programy\program010b-druhy\bin\Debug\net9.0\program010b-druhy.dll
+C:\github\IS-Programy\program010b-druhy\bin\Debug\net9.0\program010b-druhy.pdb
+C:\github\IS-Programy\program010b-druhy\obj\Debug\net9.0\program010b-druhy.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\program010b-druhy\obj\Debug\net9.0\program010b-druhy.AssemblyInfoInputs.cache
+C:\github\IS-Programy\program010b-druhy\obj\Debug\net9.0\program010b-druhy.AssemblyInfo.cs
+C:\github\IS-Programy\program010b-druhy\obj\Debug\net9.0\program010b-druhy.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\program010b-druhy\obj\Debug\net9.0\program010b-druhy.sourcelink.json
+C:\github\IS-Programy\program010b-druhy\obj\Debug\net9.0\program010b-druhy.dll
+C:\github\IS-Programy\program010b-druhy\obj\Debug\net9.0\refint\program010b-druhy.dll
+C:\github\IS-Programy\program010b-druhy\obj\Debug\net9.0\program010b-druhy.pdb
+C:\github\IS-Programy\program010b-druhy\obj\Debug\net9.0\program010b-druhy.genruntimeconfig.cache
+C:\github\IS-Programy\program010b-druhy\obj\Debug\net9.0\ref\program010b-druhy.dll

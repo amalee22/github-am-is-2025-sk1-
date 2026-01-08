@@ -1,6 +1,7 @@
 ﻿﻿string again = "a";
 while (again == "a")
 {
+
     Console.Clear();
     Console.WriteLine("*******************************************");
     Console.WriteLine("************ Kombinovaná úloha ************");
@@ -66,7 +67,6 @@ while (again == "a")
         if (numbs[i] < min)
             min = numbs[i]; 
     }
-
     Console.WriteLine();
     Console.WriteLine("---------------------------------------");
     Console.Write($"Maximum je {max}; jeho pozice: ");
@@ -97,7 +97,6 @@ while (again == "a")
         }
     }
     Console.WriteLine();
-    Console.WriteLine();
     Console.WriteLine("================================================");
     Console.WriteLine("Seřazená čísla pomocí Bubble sortu: ");
     for (int i = 0; i < n; i++)
@@ -124,7 +123,6 @@ while (again == "a")
                 fourth = numbs[i];
         }
     }
-
     Console.WriteLine();
     Console.WriteLine("================================================");
     Console.WriteLine("Druhé největší číslo: " + second);
@@ -145,9 +143,7 @@ while (again == "a")
     Console.WriteLine($"Medián: {median}");
 
     
-    // Čtvrté největší číslo převedené do binární soustavy
-    
-    string bin = "";
+    // Čtvrté největší číslo převedené do binární soustavy    string bin = "";
     int x = fourth;
     if (x == 0) bin = "0";
     while (x > 0)
@@ -155,8 +151,6 @@ while (again == "a")
         bin = (x % 2) + bin;
         x /= 2; // to samé jako x = x / 2;
     }
-
-
     Console.WriteLine();
     Console.WriteLine("================================================"); 
     Console.WriteLine($"Čtvrté největší číslo v binární soustavě: {fourth}(2) = {bin}");// zápis (2) značí binární soustavu
