@@ -282,7 +282,7 @@ class Program
             return true;      //Narazil na hráče → prohra.
 
         mapa[enemyY, enemyX] = '.'; //posune nepřítele:
-        enemyX = nx;
+        enemyX = nx; 
         enemyY = ny;
         mapa[enemyY, enemyX] = 'X';
 
