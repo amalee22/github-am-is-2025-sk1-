@@ -1,0 +1,15 @@
+C:\github\IS-Programy\program017-priprava\bin\Debug\net9.0\program017-priprava.exe
+C:\github\IS-Programy\program017-priprava\bin\Debug\net9.0\program017-priprava.deps.json
+C:\github\IS-Programy\program017-priprava\bin\Debug\net9.0\program017-priprava.runtimeconfig.json
+C:\github\IS-Programy\program017-priprava\bin\Debug\net9.0\program017-priprava.dll
+C:\github\IS-Programy\program017-priprava\bin\Debug\net9.0\program017-priprava.pdb
+C:\github\IS-Programy\program017-priprava\obj\Debug\net9.0\program017-priprava.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\program017-priprava\obj\Debug\net9.0\program017-priprava.AssemblyInfoInputs.cache
+C:\github\IS-Programy\program017-priprava\obj\Debug\net9.0\program017-priprava.AssemblyInfo.cs
+C:\github\IS-Programy\program017-priprava\obj\Debug\net9.0\program017-priprava.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\program017-priprava\obj\Debug\net9.0\program017-priprava.sourcelink.json
+C:\github\IS-Programy\program017-priprava\obj\Debug\net9.0\program017-priprava.dll
+C:\github\IS-Programy\program017-priprava\obj\Debug\net9.0\refint\program017-priprava.dll
+C:\github\IS-Programy\program017-priprava\obj\Debug\net9.0\program017-priprava.pdb
+C:\github\IS-Programy\program017-priprava\obj\Debug\net9.0\program017-priprava.genruntimeconfig.cache
+C:\github\IS-Programy\program017-priprava\obj\Debug\net9.0\ref\program017-priprava.dll

@@ -1,0 +1,15 @@
+C:\github\C#_course\everything\bin\Debug\net9.0\everything.exe
+C:\github\C#_course\everything\bin\Debug\net9.0\everything.deps.json
+C:\github\C#_course\everything\bin\Debug\net9.0\everything.runtimeconfig.json
+C:\github\C#_course\everything\bin\Debug\net9.0\everything.dll
+C:\github\C#_course\everything\bin\Debug\net9.0\everything.pdb
+C:\github\C#_course\everything\obj\Debug\net9.0\everything.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C#_course\everything\obj\Debug\net9.0\everything.AssemblyInfoInputs.cache
+C:\github\C#_course\everything\obj\Debug\net9.0\everything.AssemblyInfo.cs
+C:\github\C#_course\everything\obj\Debug\net9.0\everything.csproj.CoreCompileInputs.cache
+C:\github\C#_course\everything\obj\Debug\net9.0\everything.sourcelink.json
+C:\github\C#_course\everything\obj\Debug\net9.0\everything.dll
+C:\github\C#_course\everything\obj\Debug\net9.0\refint\everything.dll
+C:\github\C#_course\everything\obj\Debug\net9.0\everything.pdb
+C:\github\C#_course\everything\obj\Debug\net9.0\everything.genruntimeconfig.cache
+C:\github\C#_course\everything\obj\Debug\net9.0\ref\everything.dll

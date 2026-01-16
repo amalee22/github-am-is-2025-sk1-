@@ -1,0 +1,5 @@
+C:\github\IS-Programy\program018-dalsi\obj\Debug\net9.0\program018-dalsi.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\program018-dalsi\obj\Debug\net9.0\program018-dalsi.AssemblyInfoInputs.cache
+C:\github\IS-Programy\program018-dalsi\obj\Debug\net9.0\program018-dalsi.AssemblyInfo.cs
+C:\github\IS-Programy\program018-dalsi\obj\Debug\net9.0\program018-dalsi.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\program018-dalsi\obj\Debug\net9.0\program018-dalsi.sourcelink.json

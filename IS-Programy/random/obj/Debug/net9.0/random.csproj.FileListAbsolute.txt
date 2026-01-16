@@ -1,0 +1,15 @@
+C:\github\IS-Programy\random\bin\Debug\net9.0\random.exe
+C:\github\IS-Programy\random\bin\Debug\net9.0\random.deps.json
+C:\github\IS-Programy\random\bin\Debug\net9.0\random.runtimeconfig.json
+C:\github\IS-Programy\random\bin\Debug\net9.0\random.dll
+C:\github\IS-Programy\random\bin\Debug\net9.0\random.pdb
+C:\github\IS-Programy\random\obj\Debug\net9.0\random.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\random\obj\Debug\net9.0\random.AssemblyInfoInputs.cache
+C:\github\IS-Programy\random\obj\Debug\net9.0\random.AssemblyInfo.cs
+C:\github\IS-Programy\random\obj\Debug\net9.0\random.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\random\obj\Debug\net9.0\random.sourcelink.json
+C:\github\IS-Programy\random\obj\Debug\net9.0\random.dll
+C:\github\IS-Programy\random\obj\Debug\net9.0\refint\random.dll
+C:\github\IS-Programy\random\obj\Debug\net9.0\random.pdb
+C:\github\IS-Programy\random\obj\Debug\net9.0\random.genruntimeconfig.cache
+C:\github\IS-Programy\random\obj\Debug\net9.0\ref\random.dll
