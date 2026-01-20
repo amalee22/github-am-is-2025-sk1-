@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program019-test-oprava")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c86a9c2d28e4f0142da5fc5fb0457713fced664e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+381b4c6b8362728723b97a36c5ba8216a6c56629")]
 [assembly: System.Reflection.AssemblyProductAttribute("program019-test-oprava")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program019-test-oprava")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

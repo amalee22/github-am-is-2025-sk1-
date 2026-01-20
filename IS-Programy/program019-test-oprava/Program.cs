@@ -3,123 +3,256 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("***********************************************");
-    Console.WriteLine("************* Zápočtový test IS ***************");
+    Console.WriteLine("************** Zápočtový test IS **************");
     Console.WriteLine("************ Datum: 15. 1. 2026 ***************");
-    Console.WriteLine("********** Autor: Amálie Musilová *************");
+    Console.WriteLine("***************  Amálie Musilová **************");
     Console.WriteLine("***********************************************");
     Console.WriteLine();
-
-    Console.Write("Zadejte počet generovaných čísel: ");
+    
+    Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
     int n;
-    while (!int.TryParse(Console.ReadLine(), out n) || n <= 0)
-        Console.Write("Zadejte kladné celé číslo: ");
 
-    Console.Write("Zadejte dolní mez: ");
-    int dm;
-    while (!int.TryParse(Console.ReadLine(), out dm))
-        Console.Write("Zadejte celé číslo: ");
-
-    Console.Write("Zadejte horní mez: ");
-    int hm;
-    while (!int.TryParse(Console.ReadLine(), out hm) || hm < dm)
-        Console.Write("Zadejte celé číslo větší nebo rovné dolní mezi: ");
-
-    int[] a = new int[n];
-    Random rnd = new Random();
-
-    Console.WriteLine("\nPseudonáhodná čísla:");
-    for (int i = 0; i < n; i++)
+    while (!int.TryParse(Console.ReadLine(), out n))
     {
-        a[i] = rnd.Next(dm, hm + 1);
-        Console.Write(a[i] + ", ");
+        Console.Write("Nezadali jste celé číslo. Zadejte znovu počet čísel: ");
     }
 
-    // ŘAZENÍ – Selection sort (sestupně)
-    for (int i = 0; i < n; i++)
-    {
-        int maxIdx = i;
-        for (int j = i + 1; j < n; j++)
-            if (a[j] > a[maxIdx]) maxIdx = j;
+    Console.Write("Zadejte dolní mez (celé číslo): ");
+    int lowerBound;
 
-        int tmp = a[i];
-        a[i] = a[maxIdx];
-        a[maxIdx] = tmp;
+    while (!int.TryParse(Console.ReadLine(), out lowerBound))
+    {
+        Console.Write("Nezadali jste celé číslo. Zadejte znovu dolní mez: ");
     }
 
-    Console.WriteLine("\n\nSeřazené pole:");
-    for (int i = 0; i < n; i++)
-        Console.Write(a[i] + ", ");
+    Console.Write("Zadejte horní mez (celé číslo): ");
+    int upperBound;
 
-    // maximum, minimum, součet
-    int max = a[0], min = a[0], sum = 0;
-    for (int i = 0; i < n; i++)
+    while (!int.TryParse(Console.ReadLine(), out upperBound))
     {
-        if (a[i] < min) min = a[i];
-        sum += a[i];
+        Console.Write("Nezadali jste celé číslo. Zadejte znovu horní mez: ");
     }
 
-    // 2., 3. a 4. největší číslo (unikátní hodnoty)
-    int count = 0, last = int.MinValue;
-    int second = 0, third = 0, fourth = 0;
+    Console.WriteLine();
+    Console.WriteLine("================================================");
+    Console.WriteLine("Zadané hodnoty:");
+    Console.WriteLine("Počet čísel: {0}; Dolní mez: {1}; Horní mez: {2}", n, lowerBound, upperBound);
+    Console.WriteLine("================================================");
 
+    int[] myRandNumbs = new int[n];
+
+    Random myRandNumb = new Random();
+   
+
+
+    Console.WriteLine();
+    Console.WriteLine("=============================================");
+    Console.WriteLine("Pseudonáhodná čísla:");
     for (int i = 0; i < n; i++)
-        if (a[i] != last)
+    {
+        myRandNumbs[i] = myRandNumb.Next(lowerBound, upperBound + 1);
+        Console.Write("{0}; ", myRandNumbs[i]);
+        
+    }
+
+    System.Console.WriteLine();
+System.Console.WriteLine("--------------");
+
+
+//selection sort
+    for (int i = 0; i < n; i++)
+    {
+
+        int maxIndex = i;
+        for (int j = i +1 ; j < n; j++)
+            if (myRandNumbs[j] > myRandNumbs[maxIndex])
+                maxIndex = j;
+
+        int temp = myRandNumbs[i];
+        myRandNumbs[i] = myRandNumbs[maxIndex];
+        myRandNumbs[maxIndex] = temp;
+        
+    }
+System.Console.WriteLine();
+    System.Console.WriteLine("Seřazeno podle Selection sort:  ");
+    for (int i = 0; i < n; i++)
+    {
+        Console.Write($"{myRandNumbs[i]}, ");
+    }
+System.Console.WriteLine();
+    //bubble sort 
+
+ for (int i  = 0; i < n - 1; i++)
+{
+        for (int j = 0; j < n - i - 1; j++)
         {
-            count++;
-            last = a[i];
-            if (count == 2) second = a[i];
-            if (count == 3) third = a[i];
-            if (count == 4) fourth = a[i];
-        }
+            if (myRandNumbs[j] < myRandNumbs[j + 1])
+            {
+                int temp = myRandNumbs[j + 1];
+                myRandNumbs[j + 1] = myRandNumbs[j];
+                myRandNumbs[j] = temp;
 
-    Console.WriteLine("\n\nMaximum: " + max);
-    if (count >= 2) Console.WriteLine("Druhé největší číslo: " + second);
-    if (count >= 3) Console.WriteLine("Třetí největší číslo: " + third);
-    if (count >= 4) Console.WriteLine("Čtvrté největší číslo: " + fourth);
+            }
+    }
+}
+    System.Console.WriteLine();
+    System.Console.WriteLine();
+    System.Console.WriteLine("Seřazeno i podle Bubble sort:  ");
+    for (int i = 0; i < n; i++)
+    {
+        System.Console.Write("{0}, ", myRandNumbs[i]);
+    }
+
+
+
+    
+    System.Console.WriteLine();
+System.Console.WriteLine();
+  System.Console.WriteLine("-------");
+  System.Console.WriteLine();
+
+
+        // max
+        int max = myRandNumbs[0];
+    int min = myRandNumbs[0];
+        int sum = 0;//suma
+
+
+    for (int i = 0; i < n; i++)
+    {
+        if (myRandNumbs[i] > max)
+            max = myRandNumbs[i];
+
+        if (myRandNumbs[i] < min)
+            min = myRandNumbs[i];
+
+
+        sum += myRandNumbs[i]; //pro sumu a averge
+    }
+
+    System.Console.WriteLine();
+    System.Console.Write($"maximum: {max} ");
+    
+    System.Console.WriteLine();
+  
+
+
+
+    //druhy třetí čtvrtý největší
+
+    int uniqueCount = 0;
+    int lastValue = int.MinValue;
+    int second = 0, third = 0, fourth = 0;
+    for (int i = 0; i < n; i++)
+        if (myRandNumbs[i] != lastValue)
+        {
+            uniqueCount++;
+            lastValue = myRandNumbs[i];
+
+            if (uniqueCount == 2)
+                second = myRandNumbs[i];
+
+            if (uniqueCount == 3)
+                third = myRandNumbs[i];
+            
+            if (uniqueCount == 4)
+                fourth  = myRandNumbs[i];
+
+        }
+        
+
+      System.Console.WriteLine($"Druhé největší číslo:  {second}" );
+
+      System.Console.WriteLine("Třetí největší číslo: " + third);
+
+      System.Console.WriteLine("Čtvrté největší číslo: " + fourth);
+
+
+    System.Console.WriteLine();
+  System.Console.WriteLine("-------");
+  System.Console.WriteLine();
+
 
     // součet cifer maxima
     int tmpMax = max, sumDigits = 0;
     while (tmpMax > 0)
     {
-        sumDigits += tmpMax % 10;
-        tmpMax /= 10;
+        sumDigits == sumDigits + tmpMax % 10;
+        tmpMax == tmpMax / 10;
     }
-    Console.WriteLine("Součet cifer u maxima: " + sumDigits);
+    Console.WriteLine("Součet cifer u maxima: " + sumDigits); 
 
-    // medián
-    int median;
+
+
+ System.Console.WriteLine();
+  System.Console.WriteLine("-------");
+  System.Console.WriteLine();
+
+
+
+    //median
+    int median = 0;
     if (n % 2 == 1)
-        median = a[n / 2];
+        median = myRandNumbs[n / 2];
     else
-        median = (a[n / 2 - 1] + a[n / 2]) / 2;
+        median = (myRandNumbs[n / 2 - 1] + myRandNumbs[n / 2]) / 2;
 
-    Console.WriteLine("Medián: " + median);
-    Console.WriteLine("Součet: " + sum);
+    System.Console.WriteLine($"Medián vygenerovaných čísel: {median}");
 
-    int avgInt = sum / n;
-    int avgRem = sum % n;
-    Console.WriteLine($"Průměr: celá část = {avgInt}, zbytek = {avgRem}");
+    
 
-    // NSD a NSN (maximum a třetí největší číslo)
-    if (count >= 3)
+    //součet vyg čísel
+        System.Console.WriteLine($"Součet vygenerovaných čísel: {sum}"); //nahoře je k tomu fce u max min 
+
+
+
+    //průměr se zbytkem
+    int avgInt = sum/n;
+    int remainder = sum % n;
+
+    System.Console.WriteLine($"Průměr vygenerovaných čísel určený celočíselně: celá část = {avgInt}, zbytek = {remainder}");
+
+
+
+
+    System.Console.WriteLine();
+System.Console.WriteLine("-------");
+    System.Console.WriteLine();
+
+
+    //nsd a nsn
+    int a = max, b = third;
+    while (b != 0)
     {
-        int x = max, y = third;
-        while (y != 0)
-        {
-            int r = x % y;
-            x = y;
-            y = r;
-        }
-
-        int nsd = x;
-        int nsn = (max * third) / nsd;
-
-        Console.WriteLine($"NSD({max}, {third}) = {nsd}");
-        Console.WriteLine($"NSN({max}, {third}) = {nsn}");
+        int temp = b;
+        b = a % b;
+        a = temp;
     }
 
-    // VYKRESLENÍ OBRAZCE – tvar písmene S
-    if (fourth > 0 && avgInt > 0)
+    int nsd = a;
+    int nsn = (max*third) / a;
+
+    System.Console.Write("Největší společný dělitel maxima a třetího největšího čísla. ");
+    Console.WriteLine($"NSD čísel {max} a {third} je: {nsd}");
+    
+    System.Console.Write("Nejmenší společný násobek maxima a třetího největšího čísla. ");
+    Console.WriteLine($"NSN čísel {max} a {third} je: {nsn}") ;
+
+
+    System.Console.WriteLine();
+System.Console.WriteLine("-------");
+    System.Console.WriteLine();
+
+    //vykreslení obrazce
+
+    System.Console.WriteLine();
+
+    System.Console.WriteLine($"Obrazec,jehož výška je řízena čtvrtým největším číslem (zde {fourth}) a šířka celou částí průměru (zde {avgInt})");
+System.Console.WriteLine();
+
+    //používat fourth a avgInt...
+
+  if (fourth > 0 && avgInt > 0)
     {
         Console.WriteLine("\nObrazec:");
 
@@ -127,15 +260,15 @@ while (again == "a")
         char znak = '*';     // počáteční znak
         int pocetRadku = 0;
 
-        while (pocetRadku < fourth)
+        while (pocetRadku < fourth) //zavisí to na fourth - pokud je to větší tak to nejde 
         {
             // plná vodorovná řada
             for (int j = 0; j < avgInt; j++)
-                Console.Write(znak + " ");
+                Console.Write(znak + " "); //with - ten znak a space 
             Console.WriteLine();
-            pocetRadku++;
+            pocetRadku++; // zvýšení počtu vykreslených řádků
 
-            if (pocetRadku >= fourth) break;
+            if (pocetRadku >= fourth) break; // kontrola počtu řádků a pokud je splněno, tak přerušit smyčku
 
             // spojovací svislý znak
             if (vlevo)
@@ -144,29 +277,45 @@ while (again == "a")
             }
             else
             {
-                for (int j = 0; j < avgInt - 1; j++)
+                for (int j = 0; j < avgInt - 1; j++) //-1 protože ten znak je na konci
                     Console.Write("  ");
-                Console.WriteLine(znak);
+                Console.WriteLine(znak); //znak na konci řádku
             }
-            pocetRadku++;
+            pocetRadku++; // další zvýšení počtu vykreslených řádků
 
             // změna znaku a strany
-            if (znak == '*') {
+            if (znak == '*') { //tohle určuje ten přepínač mezi * a #
                 znak = '#';
             }
             else {
                 znak = '*';
             }
-            vlevo = !vlevo;
+            vlevo = !vlevo; //false to the boolean vlevo
         }
     }
     else
     {
         Console.WriteLine("\nObrazec nelze vykreslit.");
-    }
+        }
 
-    Console.ForegroundColor = ConsoleColor.Yellow;
-    Console.WriteLine("\nPro opakování programu stiskněte klávesu a.");
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Console.WriteLine();
+    Console.WriteLine();
+    Console.ForegroundColor = ConsoleColor.Yellow;	
+    Console.WriteLine("=============================================");
+    Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
     Console.ResetColor();
     again = Console.ReadLine();
 }
