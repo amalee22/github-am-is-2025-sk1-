@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "program019-test-oprava/1.0.0": {
+        "runtime": {
+          "program019-test-oprava.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program019-test-oprava/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

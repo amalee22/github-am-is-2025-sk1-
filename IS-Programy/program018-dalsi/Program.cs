@@ -211,7 +211,7 @@ while (again == "a")
     Console.WriteLine("Printing a rhombus\n");
 
 
-    // upper part fuck this shit
+    // vrchní část
     for (int i = 0; i < height; i++)
     {
         int spaces = height - i - 1;
@@ -233,7 +233,7 @@ while (again == "a")
         Console.WriteLine();
     }
 
-    //lower part
+    //spodní část
     for (int i = height - 2; i >= 0; i--)
     {
         int spaces = height - i - 1;

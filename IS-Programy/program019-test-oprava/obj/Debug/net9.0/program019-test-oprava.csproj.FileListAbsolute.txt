@@ -1,0 +1,15 @@
+C:\github\IS-Programy\program019-test-oprava\bin\Debug\net9.0\program019-test-oprava.exe
+C:\github\IS-Programy\program019-test-oprava\bin\Debug\net9.0\program019-test-oprava.deps.json
+C:\github\IS-Programy\program019-test-oprava\bin\Debug\net9.0\program019-test-oprava.runtimeconfig.json
+C:\github\IS-Programy\program019-test-oprava\bin\Debug\net9.0\program019-test-oprava.dll
+C:\github\IS-Programy\program019-test-oprava\bin\Debug\net9.0\program019-test-oprava.pdb
+C:\github\IS-Programy\program019-test-oprava\obj\Debug\net9.0\program019-test-oprava.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\IS-Programy\program019-test-oprava\obj\Debug\net9.0\program019-test-oprava.AssemblyInfoInputs.cache
+C:\github\IS-Programy\program019-test-oprava\obj\Debug\net9.0\program019-test-oprava.AssemblyInfo.cs
+C:\github\IS-Programy\program019-test-oprava\obj\Debug\net9.0\program019-test-oprava.csproj.CoreCompileInputs.cache
+C:\github\IS-Programy\program019-test-oprava\obj\Debug\net9.0\program019-test-oprava.sourcelink.json
+C:\github\IS-Programy\program019-test-oprava\obj\Debug\net9.0\program019-test-oprava.dll
+C:\github\IS-Programy\program019-test-oprava\obj\Debug\net9.0\refint\program019-test-oprava.dll
+C:\github\IS-Programy\program019-test-oprava\obj\Debug\net9.0\program019-test-oprava.pdb
+C:\github\IS-Programy\program019-test-oprava\obj\Debug\net9.0\program019-test-oprava.genruntimeconfig.cache
+C:\github\IS-Programy\program019-test-oprava\obj\Debug\net9.0\ref\program019-test-oprava.dll

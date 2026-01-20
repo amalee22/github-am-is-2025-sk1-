@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("program015a-Konzolova-hra")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("program019-test-oprava")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c86a9c2d28e4f0142da5fc5fb0457713fced664e")]
-[assembly: System.Reflection.AssemblyProductAttribute("program015a-Konzolova-hra")]
-[assembly: System.Reflection.AssemblyTitleAttribute("program015a-Konzolova-hra")]
+[assembly: System.Reflection.AssemblyProductAttribute("program019-test-oprava")]
+[assembly: System.Reflection.AssemblyTitleAttribute("program019-test-oprava")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
