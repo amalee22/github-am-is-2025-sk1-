@@ -164,7 +164,7 @@ class Program
         while (mapa[y, x] != '.'); //Pokud tam není tečka, zkus to znovu.
 
 
-        enemyX = x;     //Nastaví souřadnice nepřítele.
+        enemyX = x;     //Uložení pozice a umístění vizuální reprezentace nepřítele do mapy.
         enemyY = y;     
         mapa[y, x] = 'X';
                     //Na to místo dá nepřítele.
